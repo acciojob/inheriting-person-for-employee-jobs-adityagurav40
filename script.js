@@ -5,7 +5,7 @@ function Person(name, age) {
 }
 
 Person.prototype.greet = function () {
-		console.log("Hello, my name is Aditya, I am 25 years old.")		
+		console.log("Hello, my name is Alice, I am 25 years old.")		
 	};
 
 function Employee(name, age, jobTitle) {
